@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: f836kq6o9-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/f836kq6o9-python-gitops
